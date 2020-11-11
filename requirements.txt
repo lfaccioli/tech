@@ -1,4 +1,4 @@
-pandas
-numpy
-streamlit
-yfinance
+pandas>=0.22.0
+numpy>=1.15.1
+streamlit-0.68.0-py2.py3-none-any.whl
+yfinance>=0.1.55
