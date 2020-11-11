@@ -1,4 +1,4 @@
-import pandas
-import numpy
-import streamlit
-import yfinance
+pandas
+numpy
+streamlit
+yfinance
